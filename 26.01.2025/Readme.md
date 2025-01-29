@@ -9,7 +9,7 @@ We create two classes as given in problem statement and create functions `walk()
 
 ### Code:
 
-```
+```java
 class Animal
 {
     void walk()

@@ -8,7 +8,7 @@ We create two classes as given in problem statement and create function `add()` 
 
 ### Code:
 
-```
+```java
 public class Solution {
     public static void main(String[] args) {
         Adder obj=new Adder();
