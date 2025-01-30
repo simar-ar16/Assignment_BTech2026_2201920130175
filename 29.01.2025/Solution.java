@@ -5,7 +5,7 @@ class Solution {
             this.nums = nums;
         }
      
-        public void display() {     
+        void display() {     
             int max = nums[0];
             for (int i : nums) {
                 if (i > max) {
