@@ -34,6 +34,10 @@ class Solution {
  
         rectangle.setLength(5);
         rectangle.setWidth(4);
+
+        System.out.println("Length is: "+rectangle.getLength());
+        System.out.println("Width is: "+rectangle.getWidth());
+
         System.out.println("Updated Area: " + rectangle.calculateArea());
     }
  }
